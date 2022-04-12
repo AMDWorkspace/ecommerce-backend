@@ -20,9 +20,9 @@
 
 ## Installation and Usage
 
-- Install Node.js and MySQL
-- git clone ecommerce-backend
-- npm install
+- Install `Node.js` and `MySQL`
+- git clone this repo
+- `npm install`
 
 ## Screenshot
 
